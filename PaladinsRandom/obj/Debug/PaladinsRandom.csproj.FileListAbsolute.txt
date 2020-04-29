@@ -1,0 +1,7 @@
+C:\Users\kob1y\source\repos\PaladinsRandom\PaladinsRandom\bin\Debug\PaladinsRandom.exe.config
+C:\Users\kob1y\source\repos\PaladinsRandom\PaladinsRandom\bin\Debug\PaladinsRandom.exe
+C:\Users\kob1y\source\repos\PaladinsRandom\PaladinsRandom\bin\Debug\PaladinsRandom.pdb
+C:\Users\kob1y\source\repos\PaladinsRandom\PaladinsRandom\obj\Debug\PaladinsRandom.csprojAssemblyReference.cache
+C:\Users\kob1y\source\repos\PaladinsRandom\PaladinsRandom\obj\Debug\PaladinsRandom.csproj.CoreCompileInputs.cache
+C:\Users\kob1y\source\repos\PaladinsRandom\PaladinsRandom\obj\Debug\PaladinsRandom.exe
+C:\Users\kob1y\source\repos\PaladinsRandom\PaladinsRandom\obj\Debug\PaladinsRandom.pdb
